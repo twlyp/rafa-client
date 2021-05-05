@@ -19,6 +19,8 @@ yarn-error.log*
 .project
 tmp/
 typings/
+secrets.json
+carmen.jpg
 
 # Visual Studio Code
 .vscode/*
